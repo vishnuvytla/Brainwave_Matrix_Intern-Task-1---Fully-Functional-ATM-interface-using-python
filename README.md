@@ -18,7 +18,7 @@ The goal of this project is to develop a functional **ATM system** using **Pytho
 ### 📂 **Project Structure**  
 The repository is structured as follows:
 
-- **src/**: Source code for the entire ATM system.
+- **ATM_Interface.py**: Source code for the entire ATM system.
 - **README.md**: Project overview and instructions (this file).
 
 ---
